@@ -4,10 +4,9 @@
 💡 Passionate about automation, web & mobile development, and financial systems
 
 🔹 Tech Stack: JavaScript, React, Angular, MySQL, MongoDB, PHP, Google Apps Script
-🔹 ERP & Finance: ERPNext, Accounting Automation, Payroll Management
+🔹 ERP & Finance: ERPNext Support and Accounting Automation
 🔹 Projects: Web & mobile apps, automation scripts, financial data processing
 
-📌 Currently: IT Accounting Specialist @ Cornersteel System Corporations
 📩 Contact: clariseduco@gmail.com
 
 🚀 Always learning, building, and optimizing!
